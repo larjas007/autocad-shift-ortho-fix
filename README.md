@@ -15,6 +15,48 @@ It only targets:
 - `acad`
 - `acadlt`
 
+## Installation
+
+### 1. Create the tools folder
+
+Create this folder:
+
+```text
+C:\Tools\
+```
+
+### 2. Copy the PowerShell script
+
+Copy:
+
+```text
+scripts/ACAD_ShiftOrtho.ps1
+```
+
+to:
+
+```text
+C:\Tools\ACAD_ShiftOrtho.ps1
+```
+
+### 3. Copy the VBS launcher
+
+Copy:
+
+```text
+scripts/Launch_ACAD_ShiftOrtho.vbs
+```
+
+to any location you want.
+
+### 4. Import the scheduled task
+
+Open **Task Scheduler** and import:
+
+```text
+task-scheduler/ACAD_ShiftOrtho.xml
+```
+
 ## Status
 
 Tested on AutoCAD 2025 on HP laptop Nitro Lite 16
