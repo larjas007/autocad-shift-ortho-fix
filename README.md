@@ -15,6 +15,14 @@ It only targets:
 - `acad`
 - `acadlt`
 
+## Status
+
+Tested on AutoCAD 2025 on HP laptops.
+
+## Notes
+
+This is a workaround, not an official Autodesk fix.
+
 ## Included files
 
 ```text
