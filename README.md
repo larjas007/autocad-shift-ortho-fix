@@ -17,7 +17,7 @@ It only targets:
 
 ## Status
 
-Tested on AutoCAD 2025 on HP laptops.
+Tested on AutoCAD 2025 on HP laptop Nitro Lite 16
 
 ## Notes
 
