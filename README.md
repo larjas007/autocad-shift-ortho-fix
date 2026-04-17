@@ -30,12 +30,6 @@ C:\Tools\
 Copy:
 
 ```text
-scripts/ACAD_ShiftOrtho.ps1
-```
-
-to:
-
-```text
 C:\Tools\ACAD_ShiftOrtho.ps1
 ```
 
@@ -44,10 +38,9 @@ C:\Tools\ACAD_ShiftOrtho.ps1
 Copy:
 
 ```text
-scripts/Launch_ACAD_ShiftOrtho.vbs
+C:\Tools\Launch_ACAD_ShiftOrtho.vbs
 ```
 
-to any location you want.
 
 ### 4. Import the scheduled task
 
